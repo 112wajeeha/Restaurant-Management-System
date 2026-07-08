@@ -97,19 +97,23 @@ The system generates several reports including:
 
 ### Login Screen
 
-![Login Screen](Screenshots/login.png)
+![Login Screen](Screenshots/Login.png)
+
 
 ### Manager Dashboard
 
 ![Manager Dashboard](Screenshots/Manager_Dashboard.png)
 
+
 ### Admin Dashboard
 
 ![Admin Dashboard](Screenshots/Admin_Dashboard.png)
 
+
 ### Order Entry
 
 ![Order Form](Screenshots/Order_Form.png)
+
 
 ### Reports
 
@@ -117,6 +121,7 @@ The system generates several reports including:
 
 
 ![Staff Performance Report](Screenshots/Staff_Performance_report.png)
+
 
 ### Table Status Report
 
