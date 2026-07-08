@@ -92,6 +92,12 @@ The system generates several reports including:
 - Data Validation
 
 ---
+## Entity Relationship Diagram (ERD)
+
+The following ERD illustrates the database structure and relationships among the system entities.
+
+![Entity Relationship Diagram](ERD.png)
+
 
 ## Screenshots
 
