@@ -95,15 +95,33 @@ The system generates several reports including:
 
 ## Screenshots
 
-Include screenshots of:
+### Login Screen
 
-- Login Form
-- Waiter Dashboard
-- Manager Dashboard
-- Admin Dashboard
-- Order Entry Form
-- Employee Form
-- Reports
+![Login Screen](Screenshots/login.png)
+
+### Manager Dashboard
+
+![Manager Dashboard](Screenshots/Manager_Dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](Screenshots/Admin_Dashboard.png)
+
+### Order Entry
+
+![Order Form](Screenshots/Order_Form.png)
+
+### Reports
+
+### Staff Performance Report
+
+
+![Staff Performance Report](Screenshots/Staff_Performance_report.png)
+
+### Table Status Report
+
+
+![Table Status Report](Screenshots/Table_Status_Report.png)
 
 ---
 
